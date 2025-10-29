@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+
+# Static media (too large)
+static/
+
+# Flask data & cache
+instance/
+*.db
+*.sqlite*
+*.json
+*.txt
+
+# Logs / backups
+*.log
+*.bak
+*.tmp
+
+# OS clutter
+.DS_Store
+Thumbs.db
+token
